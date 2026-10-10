@@ -1,0 +1,6 @@
+.venv/
+tmp/
+models/
+cookies.txt
+input/
+__pycache__/

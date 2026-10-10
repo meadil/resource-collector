@@ -1,0 +1,134 @@
+--- video 1 on-screen text ---
+ier
+aan
+iilleg
+eS ed
+ocene
+oT le leell
+Mord
+Monthly
+Yearly
+Creator
+Pro
+$29 / month
+$49 / mor
+=rs who want to
+Gen
+rative Al
+ide
+ocre
+ation for individual creators
+Designed for ;
+maker.
+Provides access to advanced features such as the Al vi
+content at sca
+generator and Al voice-over.
+stunning 4K v
+Get start
+Gas
+( 600 credits
+See what you cen get with 600 credits ©
+See what you c:
+Video Generation:
+Video Genera’
+* Videos up to 30 mins
+* Videos up t
+* 4K video ex,
+* 1080p video export
+* Extended Avatar IV video generation
+* Extended A
+* Fast video
+* Quicker vids
+ids
+DS im
+© OO rset
+— 3.00
+CLIP Text Encode (Prompt)
+clip
+CONDITIONING
+VAE Decode
+teat
+model
+LATENT @-®—@ samples
+‘anime RPG game style, cute anime girl with gigantic
+ennec ears and a big fluffy fox tail with long wavy
+positive
+vae
+blonde hair and large blue eyes blonde colored
+negative
+eyelashes wearing a pink sweater a large oversized
+gold trimmed black winter coat and a long blue maxi
+latent_image
+PUEne aed nnd conn ohn Ee ehbbine bneddn 5
+steps
+CONDITIONING @7
+samplername res_multistep
+text
+scheduler
+simple
+ow quality, bad anatomy, extra digits, missing
+digits, extra limbs, missing
+denoise
+— 1.00
+Load VAE
+LATENT
+width
+— 1024
+sits
+vae_name  ae.safetensors
+height
+batch_size
+ahh
+4 dt
+ChatGPT
+Images
+of he.
+Jim .)
+Sait
+ern
+a" VOU
+understands
+er Bic
+yvilla,
+eelaie
+ot 2
+[1ElevenLabs
+wuonal
+$>>? First month 50% off
+$11 per month
+Everything in Stan (2) aks
+Ever
+Gy Professional Voice Cloning
+Gy Additional Credits
+README
+Contributing
+MIT license
+Handy
+A free, open source, and extensible speech-to-text applica
+Handy is a cross-platform desktop application that provides
+shortcut, speak, and have your words appear in any text fiel
+any information to the cloud.
+Why Handy?
+© Open Source
+Airb
+Stays
+periences
+Checkin
+Check out
+Who
+rot
+Add Gates
+Add dates
+Add guests
+Egy
+Dates
+Months
+Flexible
+April 2025
+May 2025
+vie
+a Booking Airbnb in Cairo
+oor
+$1.612
+DUTLONS:
+VOMmment

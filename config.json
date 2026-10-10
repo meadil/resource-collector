@@ -1,0 +1,15 @@
+{
+  "cookies_file": "cookies.txt",
+  "cookies_from_browser": null,
+  "whisper_model": "base",
+  "whisper_language": null,
+  "ocr_lang": "eng",
+  "ocr_psm": 11,
+  "frame_interval_seconds": 4,
+  "max_frames_per_video": 40,
+  "max_video_minutes": 15,
+  "max_filesize": "200M",
+  "sleep_between_requests": [3, 7],
+  "sleep_between_posts": [8, 20],
+  "min_free_disk_gb": 2
+}

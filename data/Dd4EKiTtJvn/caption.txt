@@ -1,0 +1,15 @@
+Comment PRINT and I'll send you the links directly.
+
+If you're selling AI services, here are 5 more free repos, who to sell them to, and what you charge.
+
+The first is Dify, 157,000 stars on GitHub. You build a dental clinic a chatbot trained on their own docs, and their front desk stops answering the same ten questions all day. $1,500 setup plus $200 a month.
+
+The second is Pipecat, built by the team behind Daily. You sell a plumbing firm an AI receptionist that picks up every call they'd have missed while on a job. $2,000 setup plus $300 a month.
+
+The third is NocoDB. It's basically Airtable, but free. You turn a recruitment agency's messy spreadsheets into one real app for $1,200, before someone deletes the wrong row again.
+
+The fourth is Listmonk. You move an online store off Mailchimp and onto their own email system, so their monthly bill drops to the cost of a server. $750 setup plus $100 a month.
+
+And finally, Plane, the open-source alternative to Jira and Monday. You set up a 20-person agency's projects on it for $1,000, with zero per-seat fees, ever.
+
+So if you want the full sheet with every price, just comment PRINT down below and I'll send it directly.

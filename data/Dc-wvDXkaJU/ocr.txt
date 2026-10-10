@@ -1,0 +1,470 @@
+--- slide 1 ---
+ior
+cos Fe
+Or eal
+9 GITHUB REPOS THAT
+SHOULDN'T BE FREE
+SWIPE FOR MORE
+
+--- slide 2 ---
+Al News & Tools
+@the_coding_wizard@
+1. Open Notebook
+Turn your PDFs, videos, websites, and notes into a
+private Al research assistant. Chat with your
+content, generate summaries, create podcasts,
+and keep everything private by running it locally
+on your own computer.
+©) Platform» Solutions ~ Resources ¥ Open Source
+Enterprise v Pricing
+Q Type (to search Signin [Signup | { 2]
+& Ifnovo / open-notebook
+D Nottcavors Fork 4th 1 Star 363
+© Code © Issues 98
+1) Pull requests
+Discussions © Actions
+{6 Projects = wiki © Security and quality
+Le Insights
+Boalt
+ranches © 44 Tags
+[esx Sa
+About
+Hinove
+D829 Commins
+‘An Open Source imy lementation
+Notebook LM with more flexibility and
+Be agents/skills/release
+features
+Be codex/agents
+P veern-open-notebook ai
+aashtant learning note-taking
+Be github
+potebock — noter-app sel leartwng
+Be commands
+Be docs
+Bs examples
+Br frontend
+BB open_notebook
+Be scripts
+Be promp'
+Be tests
+Releases «2
+L140 — New Providers:
+
+--- slide 3 ---
+Al News & Tools
+@the_coding_wizard@
+2. No Al Slop
+If you want to get rid of generic Al writing, install
+this. It detects and removes 20+ common Al
+writing habits, including fake reflections, dramatic
+phrases, and unnecessary introductions.
+©) Piatform~ Solutions ~ Resources Open Source ~ Enterprise » Pricing
+Q Type (Z)to search
+Signin [Signup | [3]
+@ petergyang /no-ai-slop
+D Notincations Fork 305 SY Sur 39K
+© Code © Issues 3
+12 Pull requests % — © Actions fF] Projects © Security and quality (= insights
+P main
+P 2Branches © 7 Tous
+About
+H petergyang Rewite AE
+ME around the use
+© WCommns
+any piece of writing,
+Removes 20+ patterns of Al slop from
+Ba codex plugin
+@ creatoreconomy s0/p/use-my-no-
+Be github/workllows
+Ba agents
+Be assets
+scripts
+Y 305
+Bx skills/no-ai-slop
+DB aitignore
+Releases
+ucense
+for shamp
+vos
+DD PRIVACYnd
+DB READMEmd
+Contributors
+DB TERMS.md
+1B plugin-submissionnd
+dese
+QD evchow
+SF reonees
+
+--- slide 4 ---
+Al News & Tools
+@the_coding_wizard@
+3.1 Have ADHD
+This repository saves you time and tokens. Install it
+once, and it makes Al get straight to the point, use
+numbered steps, and stop adding unnecessary
+phrases like “I hope this helps.”
+©) Piatform » Solutions
+Resources» Open Source » Enterprise v Pricing
+[0 type@to search
+Signin | Signup | (#)
+@ ayghri /i-have-adhd
+D Nouincations = Fork 936 Stu 16
+© Code © Issues
+TL Pull requests
+© Aations (E Projects OD Secuity and quality x Insights
+P main
+About
+P 1Brench © O Togs
+A skill to stop your coding agent from
+fro-reodine
+ON4 Commas
+output.
+burying the answer. ADHD-friendly
+Be agents/plugins
+dnd avde- —chnuce-coxe- plugin
+Ba daude- plugin
+hat bi
+aade-shils developer tooks
+Bs codex-plugin
+proguctnty
+Bi cutsor/skills/-have-adhd
+Be github
+Be evs
+Be scripts
+Ba books
+bol
+Y 93
+Be shilsi-have-adhd
+& tests
+fore th
+DB gitignore
+DB Genintmd
+Contributors 22
+act
+GENBOO
+
+--- slide 5 ---
+Al News & Tools
+@the_coding_wizard@
+4. OpenSEO
+This is an open-source alternative to Semrush and
+Ahrefs. It offers keyword research, rank tracking,
+backlink data, SEO audits, and competitor insights
+all in one self-hosted tool that you can connect to
+Al agents.
+©) Patform ~ Solutions » Resources ~ Open Source
+Enterprise ~ Pricing
+Q Type (to search
+Sig
+{ Sgnup | (3
+OQ Notitcations «Fork 12k
+sar wae
+@ every-app / open-seo
+© Code © Issues 25 1) Pull requests
+© Actions [Ei Projects OD Security and quality
+insights
+Boman
+Branches © 32
+About
+@ bensenescu
+9) 495 Commins
+and Ahrefs
+Open source alternative to Semrush
+Be agen
+@ openseoso
+Be claude stils
+Dacknnk-anatyss
+Ba github
+‘ape search: console-mep
+Meywondseenich mp 800
+Ba greptile
+Be opencode
+Be vxode
+Be badseo
+Be docs
+Be Grizzle-pa
+Be riz
+Be publ
+Releases
+Be ainensnntne
+
+--- slide 6 ---
+Al News & Tools
+@the_coding_wizard@
+5. Book to Skill
+This turns any book into a skill your Al coding agent
+can actually use. Instead of repeatedly uploading
+a 400-page PDF, the agent loads only the relevant
+chapter whenever you need an answer.
+©) Piatiorm » Solutions Resources v Open Source » Enterprise v Pricing
+Q Type (Z}to search
+Sinin | Signup | | 32)
+virgiliojr94 / book-to-skill
+D Nowications Fork 17k SD Star 163k
+© Code © Issues
+Ti Pullrequests 10 © Actions fF} Projects © Securty and quality (Insights
+About
+P master
+P Weranches © 4709s
+furn any technical
+POF into a
+@ virgilig 94 does ow
+D104 comms
+Claude Code skill — ready to study,
+fence, and use while you work,
+Bs oithub
+dy oi
+Bi book to. shill
+Ba docs
+Bs sain
+Be tests
+Be tools
+vin
+D sitignore
+DB BACKERS md
+DB CHANGELOG. md
+Releases
+DB CONTRIBUTING nd
+1D UCENSEma
+1D) READMEmd
+Contributors
+
+--- slide 7 ---
+Al News & Tools
+@the_coding_wizard@
+6. Omni Route
+If you keep hitting Al usage limits while coding, this
+repository can help. It connects tools like Claude
+Code, Codex, Cursor, and Cline to hundreds of
+models, then automatically switches providers
+when one runs out of quota.
+©) Piatform Solutions
+Resources v Open Source » Enterprise ~
+Pricing
+| Q Type@to search
+Signin | Sign up
+@ diegosouzapw / OmniRoute
+© Sponsor 01 Notifications Fork S2k YY Star 384k
+© Code © Issues 342 17 Pullrequests 340 ©) Discussions © Actions
+FB Projects (1 wiki © Security and quality LX Insights
+P release/v3.850
+P 193 Branches © 313 Tags
+About
+Never stop coding. Free MIT Al
+sme ©5960 Comms
+gateway: one endpoint, 290+
+providers (90+ free), 500+ models —
+Ba sithub
+GLM, DeepSeek, MiniMax. Works with
+Kimi, Claude, GPT, Opendl, Gemini,
+Be busty
+Claude Code, Codex, Cursor,
+Bi_vole/styles/Vocab/OmniRoute
+OpenCode, Cline & Copilot. Quota-
+RTK+Cavemar
+Be wcode
+A acd ch
+comp:
+McP/s
+saves 15-95% tokens,
+PWA. Built by
+BE @omnitoute
+500:
+@ omniroure online
+tors
+Be bin
+Bat changologd
+ipatibl
+2a abagents —_al-gatewsy
+Bm config
+‘anthrople claude clauce-code
+Be contribo/podma
+565
+dine codex copilot cursor
+Ba docker/unc: browser
+Wm-patewey mp penal
+docpreck —fere-al —gemint kml
+Ba docs
+‘opensivpreny — quien takon-saver
+Be clectron,
+eae
+
+--- slide 8 ---
+Al News & Tools
+@the_coding_wizard@
+7. Al Job Search
+This repository turns Claude Code into your
+personal job-search assistant. It can evaluate job
+listings, tailor your resume, write cover letters, find
+openings, and help you prepare for interviews
+using your real experience.
+Q Type(Dto search
+©) Platform» Solutions » Resources» OpenSource’ Enterprise Y Pricing
+| nm (Se) (@) |
+© MadsLorentzen /ai-job-search
+© Sponsor
+Q Notitcations YF Fork Ok = Star 296K
+© Code © Issues 2 TL Pall requests
+Discussions © Actions —[F} Project
+© Security and quality —[~ Insights
+About
+P master
+B 1Branch © 4 Tags
+The job search that runs on your
+PR MoadsLorentzen sri laude docs{changelog) entry |
+D154 Commins
+machine. Al job apy
+built on Claude Code:
+Bi agents/sbills
+full
+postings, tailor CV
+letter
+Ba daude
+prep interviews. For
+sagemts
+career lnade-code
+Be github
+covorsetter ow
+Bax assets/mascot
+Interview prepaiation — job-appBeation
+Ba cover letters
+job-untiog
+jpbseaich te
+Ba documents
+[ia job_scraper
+Ba templates
+Be tests
+Bt tools
+Be upskil
+
+--- slide 9 ---
+Al News & Tools
+@the_coding_wizard@
+8. Strix
+This repository uses autonomous Al agents to test
+your vibe-coded app like real hackers. It validates
+vulnerabilities, generates proof-of-concept (PoC)
+exploits, and suggests fixes to secure them.
+©) Piatiom » Solutions » Resources ~ OpenSource ~ Enterprise ~ Pricing
+Q Type to search
+Signin
+[ Sgnup } (3)
+trix / strix
+Pubic
+Q Nowncawons Fork Sime
+sur ate
+© Code © Issues 95 11 Pullrequests 97 © Actions
+[Bi Projects © Security and quality [~“ Insights
+P main
+P S88ronches © 23 Tost
+About
+pen-sor
+penetration testing
+Oxallam fi
+corror inside the st
+D673 Commas
+vulnerabilitie:
+tool to find and fix your app’
+Be gia
+@O strixai
+Be bonchmarks
+agents abhacking
+Be containers
+-penetanon- testing sl;pentesting
+security artic: anteligence
+Be docs
+bupvounty — code-quality  ctttoch
+Be strix
+& scipts
+eybersccutty — cybersecutity tools
+Be tests
+wineni-nacting hacking
+loffensive-seewity —_ penetation
+im gocucy
+1 aitignore
+entesting tools red: teaming,
+Dy pre-commit-configyamd
+security security autamatir
+D CONTRIBUTINGAnd
+( UCENSE
+last yea
+D Makefile
+
+--- slide 10 ---
+Al News & Tools
+@the_coding_wizard@
+9. Open Generative Al
+If you're paying for multiple Al tools to generate
+images and videos, this could replace them alll. It
+brings together 400+ Al models for image
+generation, video creation, lip-sync, and more alll
+in one open-source app you can self-host.
+©) Patios » Solutions » Resources » Open Source
+Enterprise Pricing
+Q Type (to search
+Sign in
+‘Sign up
+3 Anil-matcha / Open-Generative-Al
+0. Notineations Fork 45k WY Star 255k
+© Code © Issues 1 11 Pull requests
+© Actions [F] Projects © Security and quality — |~ Insights
+P mein
+P 2Branches © 13 Teos
+About
+Unwestricted
+alternative
+Q Anil-matcho
+© 363 coments
+& video
+Al vide
+Free Al image
+& app
+Veo). No content fits
+model:
+Mid}
+Kling, So
+lf-hosted,
+Be build
+MIT lic
+BE components
+Be docs/assets
+P mwuspi ai/open-generative-nitutm +0...
+‘generator abimage-generation
+election
+video-ganeration _creative-toots
+Be packages
+taabamternative Mus
+Bm public
+ogo
+Jovesccipt —Mingsal payne
+generative ai mnage-to-video
+Be swip
+Imidjowney-attornative —rmuapl
+Cpun-sace — soodnnce?
+tests
+tevtto-video uncensored
+sola-aternative —textto-mage
+0 itign
+‘on video
+P} .gitmodules
+Dvtenfile
+
+--- slide 11 ---
+the_coding_wizard @ QO
+The Coding Wizard | Web
+Development & Al | iIM@
+The coun pord
+Unioash Your Magic
+followers
+posts
+following
+Education
+@ | Sharing useful tools and codes
+12° | Worked with 435+ Brands
+@® | DM For Paid Promotion
+Ba | collab6thecodingwizard.com
+Email
+IF YOU LIKE Al NEWS &
+TOOLS CONTENT,
+THIS PAGE IS FOR YOU

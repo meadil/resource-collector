@@ -1,0 +1,15 @@
+comment REPOS down below and I'll send you the links directly.
+
+Don't let your AI agent write another line of code until you've installed these 5 free GitHub repos.
+
+The first is SkillSpector, NVIDIA's own scanner with over 18,000 stars. You just point it at any skill before you install it, so nothing you add ever quietly leaks your API keys.
+
+The second's called Reticle. When your agent says it's done, Reticle opens your real app, tests it, and hands you the exact line to fix, so broken features stop shipping looking finished.
+
+The third is Chisle. It stops your agent rambling and building stuff you never asked for, and on coding tasks it spent less than half the tokens, so you stop paying for filler.
+
+The fourth is UI Skills, with over 9,000 stars. It gives your agent the playbook real design engineers use for spacing, motion and accessibility, so your app stops looking like every other AI-built site.
+
+And finally, Anti-Slop. It's a set of code rules that automatically reject the lazy patterns AI loves to write, so sloppy code never even makes it into your project.
+
+So if you guys want all five, just comment REPOS down below and I'll send you the links directly.

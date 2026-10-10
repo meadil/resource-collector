@@ -1,0 +1,17 @@
+Comment PRINT and I'll send you the list
+
+If you're selling AI services, here are 7 free open-source repos you can turn into paid client work this week.
+
+The first is Firecrawl. It scrapes any website into clean, AI-ready data, and it's past 180,000 stars on GitHub, so you never walk into a sales call without a full audit of your prospect's site.
+
+The second is Twenty. It's the open-source Salesforce alternative, so you can hand your client a full CRM without them ever paying per seat again.
+
+The third is Chatwoot. It's a support desk you drop an AI agent straight into, so your client's leads get answered at 2am without anyone getting hired.
+
+The fourth is Activepieces. It's an automation builder with around 400 MCP servers built in, so every "can you connect this to that" you get becomes a billable afternoon.
+
+And finally, Documenso. It's the open-source DocuSign alternative, so the proposal you send gets signed the same day instead of dying in an inbox.
+
+Sell any of these as a paid AI assessment first, then charge again to build it, and the software costs you nothing.
+
+There are 2 more that didn't fit in here, so if you want the full list with the exact service to sell for each, just comment PRINT down below and I'll send it directly.
