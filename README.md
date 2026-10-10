@@ -67,23 +67,19 @@ saved_posts.json  (your Meta data export)
 
 ## Run
 
-Start OpenCode in this folder, then use these in the chat:
+Two ways, depending on whether you want an agent or just the scripts.
 
-| Say this | What happens |
-|----------|--------------|
-| `/batch 10` | Process the next 10 pending posts |
-| `/add <links...>` | Add links by hand and process those |
-| `/status` | How many queued vs. catalogued |
-| `/improve` | Agent diagnoses failures and repairs the pipeline |
-| `/unknowns 20` | Fill in catalog entries whose link is unknown |
+### With an agent
 
-Start small — `/batch 3` — look at what comes out, then scale up.
+Start OpenCode in this folder and ask for what you want in plain language:
+process the next batch, add specific links, check the queue, work out why
+something failed.
 
----
+> **Note:** the original slash commands (`/batch`, `/improve`, `/status`) lived
+> in an `.opencode/` folder that isn't in this repository. Describe the task in
+> words instead, or run the scripts directly below.
 
-## Scripts
-
-Run directly if you'd rather not use the agent:
+### Without an agent
 
 ```powershell
 $py = ".\.venv\Scripts\python.exe"
@@ -95,6 +91,12 @@ $py = ".\.venv\Scripts\python.exe"
 & $py scripts\cleanup.py                   # remove leftover media
 ```
 
+Start with three posts, look at what comes out, then scale up.
+
+---
+
+## Scripts
+
 | File | What it does |
 |------|--------------|
 | `scripts/fetch.py` | Downloads a post, extracts text, cleans up |
@@ -103,6 +105,7 @@ $py = ".\.venv\Scripts\python.exe"
 | `scripts/linkq.py` | Queue status and retry logic |
 | `scripts/doctor.py` | Checks that everything is installed correctly |
 | `scripts/cleanup.py` | Deletes leftover media and cached models |
+| `scripts/rc_common.py` | Shared helpers |
 
 ---
 
@@ -118,10 +121,11 @@ $py = ".\.venv\Scripts\python.exe"
 
 - Automated access is against Instagram's terms. Keep it personal, slow, and
   small-batch. This is a personal tool, not a scraper.
+- It was built without live Instagram access, so expect to debug the pipeline on
+  first run. The scripts are the part that's tested; the wiring may not be.
 - Pinterest can be added later as another fetcher — pins usually link straight to
   the tool's site.
 
 ---
 
-Built because ideas arrive as saved posts and leave as noise.
 `AGENTS.md` has the full technical reference; `LEARNINGS.md` has the gotchas.
